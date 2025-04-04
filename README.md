@@ -1,4 +1,4 @@
-### Quantization methods from scratch with Pytorch
+### Quantization methods from scratch with Numpy and Pytorch
 
 1. [Asymmetric linear quantization](./samples/1_linear_quantization.ipynb)
 
