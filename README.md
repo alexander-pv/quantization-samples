@@ -12,11 +12,7 @@ libraries like [optimum-quanto](https://github.com/huggingface/optimum-quanto) b
 ### Examples
 
 1. [Asymmetric Linear Quantization](./samples/1_asymm_lin_quant.ipynb)
-2. [Symmetric Linear Quantization](./samples/2_symm_lin_quant.ipynb)
-3. [Codebook Quantization](./samples/3_codebook_quant.ipynb)
-4. [AWQ, Activation aware Weight Quantization](./samples/4_awq.ipynb)
-5. [GPTQ, Quantization for GPT-like models](./samples/5_gptq.ipynb)
-6. [AQLM, Additive Quantization for LLMs](./samples/6_aqlm.ipynb)
+
 
 ### A curated list of resources
 #### Lectures:
